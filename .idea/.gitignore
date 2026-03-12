@@ -1,6 +1,12 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/copilot.data.migration.ask2agent.xml
+/.gitignore
+/git_toolbox_prj.xml
+/modules.xml
+/vcs.xml
+/win11calc.iml
 # Ignored default folder with query files
 /queries/
 # Datasource local storage ignored files
