@@ -27,6 +27,9 @@ body {
     margin: 0;
     min-height: 100vh;
     background: var(--mica-dark);
+    background-image: url("assets/win11bloom.jpg");
+    background-size: max(1412px);
+    background-position: bottom;
     font-family: var(--font);
     color: var(--text);
     padding: 28px;
